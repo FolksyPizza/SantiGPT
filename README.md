@@ -3,12 +3,6 @@
 <p align="left">
   <img src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" alt="Torch Logo" height="60"/>
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" height="60"/>
-
+  <img src="https://logo.svgcdn.com/logos/python.svg" alt="Python Logo" height="120px;"/>
 </p>
 
-<p align="left">
-  <img src="<p align="center">
-  <img src="https://logo.svgcdn.com/logos/python.svg" alt="Python Logo" height="60"/>
-</p> alt="Python Logo" height="120px;"/>
-
-</p>
