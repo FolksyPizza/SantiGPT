@@ -5,3 +5,8 @@
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" height="60"/>
 
 </p>
+
+<p align="left">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" height="120"/>
+
+</p>
