@@ -6,7 +6,7 @@
 
 SantiGPT is an AI model trained for high accuracy & reasoning, built on the GPT-2 Architecture, with support of a context window of up to 1k tokens. 
 
-# Capibilities of SantiGPT/S-GPT
+# Capibilities of SantiGPT
 - [x] Text Generation
 - [x] Context-aware responses
 - [x] Built on the GPT-2 Architecture, with up to a 1k token context window 
