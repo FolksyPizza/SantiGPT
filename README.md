@@ -10,7 +10,7 @@ SantiGPT is an AI model trained for high accuracy & reasoning, built on the GPT-
 - [x] Text Generation
 - [x] Context-aware responses
 - [x] Built on the GPT-4 Architecture, with up to a 32k token context window 
-### Created with:
+## Created with:
 - PyTorch
 - Hugging Face Transformers
 - GPT-3 architecture
