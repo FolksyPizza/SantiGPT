@@ -4,7 +4,7 @@
   <img src="https://logo.svgcdn.com/logos/python.svg" alt="Python Logo" height="100px;"/> <img src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" alt="Torch Logo" height="100"/>
 </p>
 
-SantiGPT is an AI model trained for high accuracy & reasoning, built on the GPT-2 Architecture, with support of a context window of up to 1k tokens. SantiGPT has a variety of Domain Experts/Specialized Sub-Models.
+SantiGPT is a high performance transformer (Self-Attention Network), built on the GPT-2 Architecture, with support of a context window of up to 1k tokens. SantiGPT has a variety of Domain Experts/Specialized Sub-Models.
 
 # Capibilities of SantiGPT
 - [x] Text Generation
@@ -15,3 +15,5 @@ SantiGPT is an AI model trained for high accuracy & reasoning, built on the GPT-
 - PyTorch
 - Hugging Face Transformers
 - GPT-2 architecture
+
+### Dataset On Hugging Face:
