@@ -14,6 +14,6 @@ SantiGPT is a high performance transformer (Self-Attention Network), built on th
 ## Created with:
 - PyTorch
 - Hugging Face Transformers
-- GPT-2 architecture
+- GPT-2 Architecture
 
 ### Dataset On Hugging Face:
