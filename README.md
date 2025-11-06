@@ -11,7 +11,7 @@ SantiGPT is a high performance transformer (Self-Attention Network), built on th
 - [x] Context-aware responses
 - [x] Built on the GPT-2 Architecture, with up to a 1k token context window
 - [x] Routes input to Domain Experts if necessary
-- [x] Accessible for use at: https://
+- [x] Accessible for use at: <https://>
 ## Created with:
 - PyTorch
 - Hugging Face Transformers
